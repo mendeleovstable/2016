@@ -1,3 +1,6 @@
+body{
+	background-image:url("back.jpg");
+}
 .tarer {
 	font-size:30px;
 	margin:15px;
