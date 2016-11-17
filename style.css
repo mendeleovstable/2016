@@ -1,0 +1,76 @@
+.tarer {
+	font-size:30px;
+	margin:15px;
+}
+.fir {
+	background-color:#99e6ff;
+}
+.fir:hover {
+	background-color:#4dd2ff;
+}
+.sec {
+	background-color:#33adff;
+}
+.sec:hover {
+	background-color:#008ae6;
+}
+.thi {
+	background-color:#8bda71;
+}
+.thi:hover {
+	background-color:#51b62f;
+}
+.fou {
+	background-color:#ff3333;
+}
+.fou:hover {
+	background-color:#e60000;
+}
+.yel {
+	background-color:#ffd633;
+}
+.yel:hover {
+	background-color:#e6b800;
+}
+.ora {
+	background-color:#ff751a;
+}
+.ora:hover {
+	background-color:#e65c00;
+}
+.pin {
+	background-color:#ff1ac6;
+}
+.pin:hover {
+	background-color:#b30086;
+}
+.pink {
+	background-color:#ff66cc;
+}
+.pink:hover {
+	background-color:#ff1ab3;
+}
+#uus {
+	background-color:#006633;
+}
+#uus:hover {
+	background-color:#00331a;
+}
+.la-lu {
+	background-color:#6699ff;
+}
+.la-lu:hover {
+	background-color:#3377ff;
+}
+.la-l {
+	background-color:#6699ff;
+}
+.ac-lr {
+	background-color:#4d79ff;
+}
+.ac-lr:hover {
+	background-color:#0040ff;
+}
+.ac-l {
+	background-color:#4d79ff;
+}
