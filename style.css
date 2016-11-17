@@ -1,5 +1,8 @@
 a{
-	text-decoration: inline;
+	text-decoration: overline;
+	color: #080;
+	font-style: oblique;
+	font-weight: bolder;
 }
 .tarer {
 	font-size:30px;
